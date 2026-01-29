@@ -27,5 +27,5 @@ Has max speed of 25km/h, however the Halo-Light, Cruise Control and Zero-Start d
 
 https://github.com/Liam300X/KQi-300-X-P-Firmware/blob/main/300X/US/update.json
 
-Has max speed of 38km/h, however the Halo-Light, Cruise Control and Zero-Start do not work
+Has max speed of 39km/h, however the Halo-Light, Cruise Control and Zero-Start do not work
 
